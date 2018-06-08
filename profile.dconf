@@ -1,0 +1,18 @@
+[/]
+foreground-color='rgb(255,255,255)'
+visible-name='Cobalt2'
+palette=['rgb(0,0,0)', 'rgb(255,0,0)', 'rgb(56,222,33)', 'rgb(255,229,10)', 'rgb(20,96,210)', 'rgb(255,0,93)', 'rgb(0,187,187)', 'rgb(187,187,187)', 'rgb(85,85,85)', 'rgb(244,14,23)', 'rgb(59,208,29)', 'rgb(237,200,9)', 'rgb(85,85,255)', 'rgb(255,85,255)', 'rgb(106,227,250)', 'rgb(255,255,255)']
+bold-is-bright=true
+cursor-background-color='rgb(240,204,9)'
+cursor-shape='ibeam'
+cursor-colors-set=true
+highlight-colors-set=true
+scroll-on-output=false
+use-theme-colors=false
+cursor-foreground-color='rgb(255,255,255)'
+use-theme-transparency=false
+bold-color-same-as-fg=true
+scroll-on-keystroke=true
+background-color='rgb(19,39,56)'
+scrollbar-policy='always'
+text-blink-mode='always'
